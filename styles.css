@@ -12,6 +12,32 @@
 body {
     background-color:brown;
 }
+
+.relative{
+    position: relative;
+}
+
+.fixed{
+    position: fixed;
+}
+
+button{
+    padding: 2px;
+    margin: 98px 148px;
+
+    font-size: 5em;
+    background-color: coral;
+    border-color: chocolate;
+    
+}
+button:hover{
+    padding:50px 100px;
+    margin: 50px;
+    border: dashed 5px yellow;
+}
+
 #thisID{
     background-color: aquamarine;
+    text-decoration: line-through;
+    
 }
