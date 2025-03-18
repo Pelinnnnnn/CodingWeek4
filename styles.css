@@ -1,0 +1,17 @@
+
+
+.highlight{
+    font-size: 5em;
+    color: red;
+}
+
+.blue{
+    
+    color: blueviolet;
+}
+body {
+    background-color:brown;
+}
+#thisID{
+    background-color: aquamarine;
+}
